@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "rtx_portalgun",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_portalgun",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/weapons/rtx_portalgun.vmdl",
+        "Summary": "RTX Portal Gun",
+        "Description": "RTX Portal Gun",
+        "Public": true,
+        "ReplaceTags": "valve portal nvidia rtx 4k"
+      }
+    }
+  }
+}
