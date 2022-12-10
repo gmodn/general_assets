@@ -6,6 +6,7 @@ Layer0
 
 	//---- PBR ----
 	F_SELF_ILLUM 1
+	F_SPECULAR 1
 
 	//---- Ambient Occlusion ----
 	g_flAmbientOcclusionDirectDiffuse "0.000"
