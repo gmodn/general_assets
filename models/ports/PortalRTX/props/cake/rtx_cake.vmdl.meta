@@ -14,7 +14,7 @@
       "HasCode": false,
       "CodePath": null,
       "Metadata": {
-        "SingleAssetSource": "models/rtx_cake.vmdl",
+        "SingleAssetSource": "models/ports/portalrtx/props/cake/rtx_cake.vmdl",
         "Summary": "RTX Portal Cake",
         "Description": "RTX Portal Cake",
         "Public": true,
