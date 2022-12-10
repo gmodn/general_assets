@@ -7,3 +7,5 @@ Models - This includes every model in the repo and their required materials.
 I did this rather than putting them in materials so people could clone and use those seperate from my materials if needed.
 
 Materials - These are world textures. (Walls, Floors, Ceilings, ETC.)
+
+Sounds - Sounds like Music, ambient noises, other things like that.
