@@ -4,6 +4,6 @@ My asset repo for s&amp;box. Open source for anyone to use. This also has some p
 Here is a quick rundown of how all of my folders are used.
 
 Models - This includes every model in the repo and their required materials. 
-I did this rather than putting them in materials so people could clone and use those seperate from my materials.
+I did this rather than putting them in materials so people could clone and use those seperate from my materials if needed.
 
 Materials - These are world textures. (Walls, Floors, Ceilings, ETC.)
