@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "rtx_4090_weightedcube",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_4090cube",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/metal_box/rtx_4090_weightedcube.vmdl",
+        "Summary": "RTX 4090 Weighted Cube",
+        "Description": "RTX 4090 Weighted Cube",
+        "Public": true,
+        "ReplaceTags": "valve portal nvidia rtx 4k"
+      }
+    }
+  }
+}
