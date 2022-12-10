@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "rtx_pctower",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_pctower",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/bts/rtx_pctower.vmdl",
+        "Summary": "RTX Aperture PC Tower",
+        "Description": "RTX Aperture PC Tower",
+        "Public": true,
+        "ReplaceTags": "valve portal nvidia rtx 4k tech"
+      }
+    }
+  }
+}

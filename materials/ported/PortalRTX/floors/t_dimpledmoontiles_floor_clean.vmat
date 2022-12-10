@@ -1,0 +1,14 @@
+
+Layer0
+{
+	shader "complex.vfx"
+
+	TextureColor "materials/ported/portalrtx/floors/t_dimpledmoontiles_floor_clean_basecolor.tga"
+	TextureAmbientOcclusion "materials/default/default_ao.tga"
+	TextureNormal "materials/ported/portalrtx/floors/t_dimpledmoontiles_floor_clean_normal_oth.tga"
+	TextureRoughness "materials/ported/portalrtx/floors/t_dimpledmoontiles_floor_clean_roughness.tga"
+	F_METALNESS_TEXTURE 1
+	F_SPECULAR 1
+	TextureMetalness "materials/ported/portalrtx/floors/t_dimpledmoontiles_floor_clean_metallic.tga"
+
+}

@@ -1,0 +1,11 @@
+
+Layer0
+{
+	shader "complex.vfx"
+
+	TextureColor "models/ports/portalrtx/props/bts/t_prop_gameconsole_albedo.tga"
+	TextureAmbientOcclusion "materials/default/default_ao.tga"
+	TextureNormal "models/ports/portalrtx/props/bts/t_prop_gameconsole_normal.tga"
+	TextureRoughness "models/ports/portalrtx/props/bts/t_prop_gameconsole_rough.tga"
+
+}
