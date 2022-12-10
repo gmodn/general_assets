@@ -1,5 +1,5 @@
 # general_assets
-My asset repo for s&amp;box. Open source for anyone to use. This also has some ported assets from various games (primarily valve titles)
+My asset repo for s&amp;box. Open source for anyone to use. This also has some ported assets from various games (primarily valve titles.) Those will be listed in their own seperate folder labeling what game they're from so there is no confusion.
 
 Here is a quick rundown of how all of my folders are used.
 
