@@ -1,0 +1,122 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models\\props\\furniture\\dmx\\mesh\\dev_furniture_table_large.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.007143, 0.024503, -0.088169 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 4.060202, 4.055512, 36.102585 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -75.985649, 0.024503, -0.088169 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 4.060202, 4.055512, 36.102585 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -75.985649, -75.992874, -0.088169 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 4.060202, 4.055512, 36.102585 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.03215, -76.032516, -0.088169 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 4.060202, 4.055512, 36.102585 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -38.075775, -38.016155, 20.01203 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 80.226044, 80.136833, 4.071802 ]
+					},
+				]
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "prop_data"
+						game_keys = 
+						{
+							allowstatic = false
+							bakelighting = true
+							spawn_motion_disabled = false
+							health = -1.0
+							min_impact_damage_speed = -1.0
+							impact_damage = -1.0
+							parent_bodygroup_name = ""
+							parent_bodygroup_value = 0
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}

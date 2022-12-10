@@ -1,0 +1,152 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models\\props\\furniture\\dmx\\mesh\\dev_furniture_bed.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "prop_data"
+						game_keys = 
+						{
+							allowstatic = false
+							bakelighting = true
+							spawn_motion_disabled = false
+							health = -1.0
+							min_impact_damage_speed = -1.0
+							impact_damage = -1.0
+							parent_bodygroup_name = ""
+							parent_bodygroup_value = 0
+						}
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "materials/dev/dev_measuregeneric01.vmat"
+								to = "materials/dev/dev_measuregeneric01.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.019951, -43.287617, 0.047233 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 62.078781, 1.443977, 26.376513 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -30.442558, -0.717906, 0.180011 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 1.15377, 86.583405, 26.110956 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 30.623749, -0.717906, 0.180011 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 1.15377, 86.583405, 26.110956 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.059957, 47.15332, 15.115423 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 62.281349, 6.373886, 55.981777 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.004493, -0.083512, -0.93192 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 60.425243, 85.314575, 23.887094 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.024542, 43.341393, 0.180011 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 62.087971, 1.585219, 26.110956 ]
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}
