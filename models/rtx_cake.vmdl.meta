@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "rtx_cake",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_cake",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/rtx_cake.vmdl",
+        "Summary": "RTX Portal Cake",
+        "Description": "RTX Portal Cake",
+        "Public": true,
+        "ReplaceTags": "valve portal nvidia rtx food 4k"
+      }
+    }
+  }
+}

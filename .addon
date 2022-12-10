@@ -1,0 +1,14 @@
+{
+  "Title": "General Assets",
+  "Type": "content",
+  "Org": "local",
+  "Ident": "general_assets",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "Metadata": {}
+}

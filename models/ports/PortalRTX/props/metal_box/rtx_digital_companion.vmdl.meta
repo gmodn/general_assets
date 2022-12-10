@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "rtx_digital_companion",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_companion",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/metal_box/rtx_digital_companion.vmdl",
+        "Summary": "RTX Companion Cube",
+        "Description": "RTX Companion Cube",
+        "Public": true,
+        "ReplaceTags": "valve nvidia rtx portal 4k"
+      }
+    }
+  }
+}
