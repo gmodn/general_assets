@@ -1,0 +1,33 @@
+newmtl M_Prop_RTX_CompanionCube_Glass
+illum 7
+Kd 0.866667 0.0431373 0.878431
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+Pr 0.3
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl M_Prop_RTX_CompanionCube
+illum 7
+Kd 0.878431 0.133333 0.133333
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+Pr 0.3
+Ns 16
+Ks 1 1 1
+adobe_glow 0

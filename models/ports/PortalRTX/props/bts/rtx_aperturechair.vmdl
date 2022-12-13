@@ -29,10 +29,10 @@
 				[
 					{
 						_class = "RenderMeshFile"
-						filename = "models/ports/portalrtx/props/bts/rtx_aperturechair.fbx"
-						import_translation = [ 0.0, 0.0, 0.0 ]
-						import_rotation = [ 0.0, 0.0, 0.0 ]
-						import_scale = 0.01
+						filename = "models/ports/portalrtx/props/bts/rtx_aperturechair.obj"
+						import_translation = [ 0.0, 0.0, 21.0 ]
+						import_rotation = [ -90.0, 0.0, 0.0 ]
+						import_scale = 1.0
 						align_origin_x_type = "None"
 						align_origin_y_type = "None"
 						align_origin_z_type = "None"
@@ -43,6 +43,7 @@
 							exception_list = 
 							[
 								"SM_Furniture_Chair_Padded",
+								"rtx_aperturechair",
 							]
 						}
 					},
