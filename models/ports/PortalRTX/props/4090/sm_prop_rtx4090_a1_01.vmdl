@@ -54,12 +54,13 @@
 				children = 
 				[
 					{
-						_class = "PhysicsHullFromRender"
+						_class = "PhysicsShapeBox"
 						parent_bone = ""
-						surface_prop = "brick"
+						surface_prop = "default"
 						collision_tags = "solid"
-						faceMergeAngle = 20.0
-						maxHullVertices = 32
+						origin = [ 5.495905, 0.471017, -0.05665 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 11.219752, 27.660904, 5.561235 ]
 					},
 				]
 			},
