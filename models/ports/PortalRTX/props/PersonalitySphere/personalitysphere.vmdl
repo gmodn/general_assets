@@ -19,7 +19,7 @@
 							},
 							{
 								from = "m_personality_sphere_glass.vmat"
-								to = "materials/ported/portalrtx/props/cubes/glass.vmat"
+								to = "models/ports/portalrtx/props/metal_box/rtx_4090_weightedcompanion_glass.vmat"
 							},
 							{
 								from = "m_personality_sphere_internalblack.vmat"
