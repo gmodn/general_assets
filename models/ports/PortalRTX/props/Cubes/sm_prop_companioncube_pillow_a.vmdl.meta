@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "sm_prop_companioncube_pillow_a",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_pillow",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/cubes/sm_prop_companioncube_pillow_a.vmdl",
+        "Summary": "Pillow Companion Cube From Portal With RTX",
+        "Description": "Pillow Companion Cube From Portal With RTX",
+        "Public": true,
+        "ReplaceTags": "valve portal nvidia rtx 4k"
+      }
+    }
+  }
+}

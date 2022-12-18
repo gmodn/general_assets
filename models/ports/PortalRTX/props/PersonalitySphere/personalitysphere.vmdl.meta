@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "rtx_personalitysphere",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_core",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/personalitysphere/personalitysphere.vmdl",
+        "Summary": "Personality Sphere From Portal With RTX",
+        "Description": "Personality Sphere From Portal With RTX",
+        "Public": true,
+        "ReplaceTags": "valve portal nvidia rtx 4k"
+      }
+    }
+  }
+}
