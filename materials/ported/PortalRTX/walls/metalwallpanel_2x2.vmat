@@ -16,7 +16,7 @@ Layer0
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureColor "materials/default/default_color.tga"
+	TextureColor "materials/ported/portalrtx/walls/t_p1_metalwallpanel_2x2_01_basecolor.tga"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
@@ -29,13 +29,13 @@ Layer0
 	g_flDirectionalLightmapStrength "1.000"
 
 	//---- Metalness ----
-	TextureMetalness "materials/default/default_metal.tga"
+	TextureMetalness "materials/ported/portalrtx/walls/t_p1_metalwallpanel_2x2_01_metallic.tga"
 
 	//---- Normal ----
-	TextureNormal "materials/default/default_normal.tga"
+	TextureNormal "materials/ported/portalrtx/walls/t_p1_metalwallpanel_2x2_01_normal_oth.tga"
 
 	//---- Roughness ----
-	TextureRoughness "materials/default/default_rough.tga"
+	TextureRoughness "materials/ported/portalrtx/walls/t_p1_metalwallpanel_2x2_01_roughness.tga"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
