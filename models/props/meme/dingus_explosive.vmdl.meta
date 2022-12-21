@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "dingus_explosive",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "dingus_explosive",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/props/meme/dingus_explosive.vmdl",
+        "Summary": "",
+        "Description": "",
+        "Public": true,
+        "ReplaceTags": "meme explosive"
+      }
+    }
+  }
+}

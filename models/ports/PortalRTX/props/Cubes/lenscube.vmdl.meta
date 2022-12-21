@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "lenscube",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_lenscube",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/cubes/lenscube.vmdl",
+        "Summary": "RTX Lens cube From Portal With RTX",
+        "Description": "RTX Lens cube From Portal With RTX",
+        "Public": true,
+        "ReplaceTags": "valve portal nvidia rtx 4k"
+      }
+    }
+  }
+}
