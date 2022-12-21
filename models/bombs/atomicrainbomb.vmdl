@@ -1,0 +1,112 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = ""
+							radius = 10.0
+							point0 = [ 0.0, 0.0, 0.0 ]
+							point1 = [ 0.0, 0.0, 0.0 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "prop_data"
+						game_keys = 
+						{
+							base = ""
+							allowstatic = true
+							bakelighting = true
+							spawn_motion_disabled = false
+							health = 25.0
+							min_impact_damage_speed = -1.0
+							impact_damage = 25.0
+							parent_bodygroup_name = ""
+							parent_bodygroup_value = 0
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "explosion_behavior"
+						game_keys = 
+						{
+							explosion_type = "shrapnel"
+							explosive_damage = 350.0
+							explosive_radius = 3500.0
+							explosive_force = 150.0
+							explosion_delay = -14.0
+							explosion_buildup = "rmine_blip3"
+							explosion_custom_effect = resource:"particles/bombs/atomicrainbomb/explosion_rainbomb.vpcf"
+							explosion_custom_sound = "fivehundred_explosion"
+						}
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeSphere"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 20.0
+						center = [ 0.0, 0.0, 0.0 ]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderPrimitiveSphere"
+						name = "ball"
+						parent_bone = ""
+						material_name = "materials/shiny_white.vmat"
+						origin = [ 0.0, 0.0, 0.0 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						max_u = 1.0
+						max_v = 1.0
+						radius = 20.0
+						segments_u = 32
+						segments_v = 32
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "materials/shiny_white.vmat"
+								to = "materials/shiny_white.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "rtx_dirty4090",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_4090dirty",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/4090/sm_prop_rtx4090_a1_01.vmdl",
+        "Summary": "Dirty RTX 4090 Model From Portal With RTX",
+        "Description": "Dirty RTX 4090 Model From Portal With RTX",
+        "Public": true,
+        "ReplaceTags": "nvidia rtx 4k"
+      }
+    }
+  }
+}

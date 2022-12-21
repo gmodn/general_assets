@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "radio",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_radio",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/radio/radio.vmdl",
+        "Summary": "RTX Radio from Portal With RTX",
+        "Description": "RTX Radio from Portal With RTX",
+        "Public": true,
+        "ReplaceTags": "valve portal nvidia rtx 4k"
+      }
+    }
+  }
+}
