@@ -5,7 +5,7 @@
       "Title": "Milk Carton",
       "Type": "model",
       "Org": "mdlresrc",
-      "Ident": "milkcarton",
+      "Ident": "rtx_milkcarton",
       "Tags": "milk",
       "Schema": 0,
       "HasAssets": false,
