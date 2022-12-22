@@ -32,9 +32,9 @@
 						parent_bone = ""
 						surface_prop = "default"
 						collision_tags = "solid"
-						origin = [ 0.011021, -0.002449, 4.2635 ]
+						origin = [ 0.011021, -0.002449, 4.431217 ]
 						angles = [ 0.0, 0.0, 0.0 ]
-						dimensions = [ 19.182251, 19.098719, 8.603188 ]
+						dimensions = [ 19.182251, 19.098719, 8.938622 ]
 					},
 				]
 			},
@@ -44,10 +44,10 @@
 				[
 					{
 						_class = "RenderMeshFile"
-						filename = "models/ports/portalrtx/props/cake/rtx_cake.fbx"
+						filename = "models/ports/portalrtx/props/cake/rtx_cake.obj"
 						import_translation = [ 0.0, 0.0, 0.0 ]
 						import_rotation = [ 0.0, 0.0, 0.0 ]
-						import_scale = 0.005
+						import_scale = 0.5
 						align_origin_x_type = "None"
 						align_origin_y_type = "None"
 						align_origin_z_type = "None"
@@ -60,6 +60,7 @@
 								"SM_Portal_Cake",
 								"SM_Portal_Cake_Candle",
 								"SM_Portal_Cake_Plate",
+								"rtx_cake",
 							]
 						}
 					},
