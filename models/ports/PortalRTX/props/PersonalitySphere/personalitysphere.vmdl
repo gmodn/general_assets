@@ -29,6 +29,39 @@
 						use_global_default = false
 						global_default_material = ""
 					},
+					{
+						_class = "MaterialGroup"
+						name = "blue02"
+						remaps = 
+						[
+							{
+								from = "models/ports/portalrtx/props/personalitysphere/personalitycoreorange01.vmat"
+								to = "models/ports/portalrtx/props/personalitysphere/personalitycore_blue02.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "red01"
+						remaps = 
+						[
+							{
+								from = "models/ports/portalrtx/props/personalitysphere/personalitycoreorange01.vmat"
+								to = "models/ports/portalrtx/props/personalitysphere/personalitycore_red01.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "purple01"
+						remaps = 
+						[
+							{
+								from = "models/ports/portalrtx/props/personalitysphere/personalitycoreorange01.vmat"
+								to = "models/ports/portalrtx/props/personalitysphere/personalitycore_purple01.vmat"
+							},
+						]
+					},
 				]
 			},
 			{
