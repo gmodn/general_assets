@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Milk Carton",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "milkcarton",
+      "Tags": "milk",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/cubes/milkcarton.vmdl",
+        "Summary": "Milk Carton from Portal With RTX",
+        "Description": "Milk Carton from Portal With RTX",
+        "Public": true,
+        "ReplaceTags": "nvidia valve portal rtx"
+      }
+    }
+  }
+}
