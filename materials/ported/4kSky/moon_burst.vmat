@@ -1,0 +1,14 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "sky.shader"
+
+	//---- Format ----
+	F_TEXTURE_FORMAT2 1 // RGB (8-bit uncompressed)
+
+	//---- Texture ----
+	g_flBrightnessExposureBias "2.000"
+	g_flRenderOnlyExposureBias "0.000"
+	SkyTexture "materials/ported/4ksky/moon_burst.png"
+}
