@@ -19,7 +19,7 @@
 							},
 							{
 								from = "sm_prop_companioncube_lens.vmat"
-								to = "models/ports/portalrtx/props/cubes/lenscube.vmat"
+								to = "models/sbox_props/cctv/cctv_glass.vmat"
 							},
 						]
 						use_global_default = false

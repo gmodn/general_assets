@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "reactorcube",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_reactorcube",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/cubes/reactorcube.vmdl",
+        "Summary": "Reactor Cube that was cut From Portal With RTX",
+        "Description": "Reactor Cube that was cut From Portal With RTX",
+        "Public": true,
+        "ReplaceTags": "valve portal nvidia rtx"
+      }
+    }
+  }
+}
