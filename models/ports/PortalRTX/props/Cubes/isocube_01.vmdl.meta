@@ -1,6 +1,6 @@
 {
   "publish": {
-    "Enabled": true,
+    "Enabled": false,
     "ProjectConfig": {
       "Title": "Iso-Wheatly",
       "Type": "model",

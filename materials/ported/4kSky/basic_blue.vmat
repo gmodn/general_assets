@@ -2,7 +2,7 @@
 
 Layer0
 {
-	shader "sky.vfx"
+	shader "sky.shader"
 
 	//---- Format ----
 	F_TEXTURE_FORMAT2 1 // RGB (8-bit uncompressed)
@@ -10,5 +10,5 @@ Layer0
 	//---- Texture ----
 	g_flBrightnessExposureBias "2.000"
 	g_flRenderOnlyExposureBias "0.000"
-	SkyTexture "textures/basic_blue.png"
+	SkyTexture "materials/ported/4ksky/basic_blue.png"
 }

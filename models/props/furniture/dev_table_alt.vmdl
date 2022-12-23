@@ -1,0 +1,96 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "mesh_258.vmat"
+								to = "materials/dev/dev_measuregeneric01b.vmat"
+							},
+							{
+								from = "mesh_259.vmat"
+								to = "materials/dev/dev_measuregeneric01b.vmat"
+							},
+							{
+								from = "mesh_260.vmat"
+								to = "materials/dev/dev_measuregeneric01.vmat"
+							},
+							{
+								from = "mesh_261.vmat"
+								to = "materials/dev/dev_measuregeneric01.vmat"
+							},
+							{
+								from = "mesh_262.vmat"
+								to = "materials/dev/dev_measuregeneric01.vmat"
+							},
+							{
+								from = "mesh_263.vmat"
+								to = "materials/dev/dev_measuregeneric01.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsHullFromRender"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_tags = "solid"
+						faceMergeAngle = 20.0
+						maxHullVertices = 32
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/props/furniture/dev_table_alt.obj"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"dev_table_alt",
+								"dev_table_alt1",
+								"dev_table_alt2",
+								"dev_table_alt3",
+								"dev_table_alt4",
+								"dev_table_alt5",
+							]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}

@@ -2,10 +2,10 @@
 
 Layer0
 {
-	shader "sky.vfx"
+	shader "sky.shader"
 
 	//---- Texture ----
 	g_flBrightnessExposureBias "2.000"
 	g_flRenderOnlyExposureBias "0.000"
-	SkyTexture "textures/yellow_sunset.png"
+	SkyTexture "materials/ported/4ksky/yellow_sunset.png"
 }
