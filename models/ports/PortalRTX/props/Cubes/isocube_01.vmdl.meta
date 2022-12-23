@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Iso-Wheatly",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "isocube_01",
+      "Tags": "portal",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/ports/portalrtx/props/cubes/isocube_01.vmdl",
+        "Summary": "Iso-Wheatly Cube from Portal With RTX",
+        "Description": "Iso-Wheatly Cube from Portal With RTX",
+        "Public": true,
+        "ReplaceTags": "portal valve rtx 4k nvidia"
+      }
+    }
+  }
+}
