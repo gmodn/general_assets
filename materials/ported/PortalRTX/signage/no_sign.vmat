@@ -30,7 +30,7 @@ Layer0
 	g_flDirectionalLightmapStrength "1.000"
 
 	//---- Metalness ----
-	TextureMetalness "materials/ported/portalrtx/signage/04abcf21edf93ff0_metallic.tga"
+	TextureMetalness "materials/ported/portalrtx/signage/signage_metal.tga"
 
 	//---- Normal ----
 	TextureNormal "materials/ported/portalrtx/signage/04abcf21edf93ff0_normal_oth.tga"
@@ -44,7 +44,7 @@ Layer0
 	g_flSelfIllumScale "1.000"
 	g_vSelfIllumScrollSpeed "[0.000 0.000]"
 	g_vSelfIllumTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureSelfIllumMask "materials/ported/portalrtx/signage/04abcf21edf93ff0_emissive.tga"
+	TextureSelfIllumMask "materials/ported/portalrtx/signage/04abcf21edf93ff0_albedo.tga"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
