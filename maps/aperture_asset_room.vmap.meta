@@ -1,5 +1,7 @@
 {
-  "cloud_packages": [],
+  "cloud_packages": [
+    "mdlresrc.rtx_4090#11542"
+  ],
   "game_packages": [],
   "addon_packages": []
 }

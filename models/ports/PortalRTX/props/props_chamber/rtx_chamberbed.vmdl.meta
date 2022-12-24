@@ -2,7 +2,7 @@
   "publish": {
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "rtx_chamberbed",
+      "Title": "Chamber Bed",
       "Type": "model",
       "Org": "mdlresrc",
       "Ident": "rtx_chamberbed",

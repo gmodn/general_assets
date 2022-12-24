@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Weighted Storage Cube",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "rtx_metalbox",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/props/furniture/aperture_cube.vmdl",
+        "Summary": "Weighted Storage Cube from Portal With RTX",
+        "Description": "Weighted Storage Cube from Portal With RTX",
+        "Public": true,
+        "ReplaceTags": "valve portal nvidia rtx 4k"
+      }
+    }
+  }
+}
