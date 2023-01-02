@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "hololens",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "hololens",
+      "Tags": "",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/props/tech/hololens.vmdl",
+        "Summary": "microsoft hololens",
+        "Description": "microsoft hololens",
+        "Public": true,
+        "ReplaceTags": "tech props"
+      }
+    }
+  }
+}
