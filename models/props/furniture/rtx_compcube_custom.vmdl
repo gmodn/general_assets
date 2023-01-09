@@ -19,7 +19,7 @@
 							},
 							{
 								from = "m_prop_companioncubedigital_a02.vmat"
-								to = "models/ports/portalrtx/props/metal_box/companion_custom.vmat"
+								to = "models/ports/portalrtx/props/metal_box/rtx_digital_companion.vmat"
 							},
 						]
 						use_global_default = false

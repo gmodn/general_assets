@@ -33,7 +33,7 @@
 				[
 					{
 						_class = "RenderMeshFile"
-						filename = "models/ports/PortalRTX/props/metal_box/rtx_compcube.obj"
+						filename = "models/ports/PortalRTX/props/Cubes/SM_Prop_CompanionCubeDigital_A01_01.obj"
 						import_translation = [ 0.0, 0.0, 0.0 ]
 						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0

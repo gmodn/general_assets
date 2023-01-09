@@ -44,7 +44,17 @@
 				[
 					{
 						_class = "DefaultMaterialGroup"
-						remaps = [  ]
+						remaps = 
+						[
+							{
+								from = "dingus.vmat"
+								to = "materials/dingus/dingus.vmat"
+							},
+							{
+								from = "dingus_whiskers.vmat"
+								to = "materials/dingus/whiskers.vmat"
+							},
+						]
 						use_global_default = false
 						global_default_material = ""
 					},

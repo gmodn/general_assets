@@ -33,7 +33,7 @@
 				[
 					{
 						_class = "RenderMeshFile"
-						filename = "models/ports/PortalRTX/props/Cubes/lenscube.obj"
+						filename = "models/ports/PortalRTX/Props/Cubes/SM_Prop_CompanionCube_Lens.obj"
 						import_translation = [ 0.0, 0.0, 0.0 ]
 						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
@@ -47,6 +47,8 @@
 							exception_list = 
 							[
 								"lenscube",
+								"sm_prop_companioncube_lens1",
+								"sm_prop_companioncube_lens",
 							]
 						}
 					},
