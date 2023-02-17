@@ -1,5 +1,7 @@
 {
   "cloud_packages": [],
-  "game_packages": [],
+  "game_packages": [
+    "devbots.castletd"
+  ],
   "addon_packages": []
 }

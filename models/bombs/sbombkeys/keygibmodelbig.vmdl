@@ -59,11 +59,11 @@
 						[
 							{
 								from = "cylinder.vmat"
-								to = "materials/gold.vmat"
+								to = "materials/bombs/gold.vmat"
 							},
 							{
 								from = "path 0.vmat"
-								to = "materials/shiny_white.vmat"
+								to = "materials/bombs/shiny_white.vmat"
 							},
 						]
 						use_global_default = false
@@ -79,7 +79,7 @@
 						_class = "PhysicsHullFromRender"
 						parent_bone = ""
 						surface_prop = "metal"
-						collision_prop = "default"
+						collision_tags = "solid"
 						faceMergeAngle = 20.0
 						maxHullVertices = 32
 					},
@@ -89,5 +89,6 @@
 		model_archetype = ""
 		primary_associated_entity = ""
 		anim_graph_name = ""
+		base_model_name = ""
 	}
 }
