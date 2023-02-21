@@ -1,0 +1,15 @@
+{
+  "Title": "White Suit Jacket (gray tie)",
+  "Subtitle": "Best used for bands.",
+  "Category": "Tops",
+  "SubCategory": "Ian\u0027s Custom",
+  "Parent": null,
+  "Model": "models/citizen_custom/suitjacket_thall.vmdl",
+  "SkinMaterial": null,
+  "EyesMaterial": null,
+  "MaterialGroup": "green",
+  "SlotsUnder": "LeftArm, RightArm",
+  "SlotsOver": "Chest",
+  "HideBody": "Chest",
+  "Icon": {}
+}
