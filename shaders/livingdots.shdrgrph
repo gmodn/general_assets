@@ -1,0 +1,65 @@
+{
+  "Model": "models/dev/plane.vmdl",
+  "Description": "",
+  "BlendMode": "Opaque",
+  "nodes": [
+    {
+      "_class": "Result",
+      "Albedo": {
+        "Identifier": "3",
+        "Output": "Result"
+      },
+      "Emission": {},
+      "Opacity": {},
+      "TintMask": {},
+      "Normal": {},
+      "Roughness": {},
+      "Metalness": {},
+      "AmbientOcclusion": {},
+      "Sheen": {},
+      "SheenRoughness": {},
+      "Clearcoat": {},
+      "ClearcoatRoughness": {},
+      "ClearcoatNormal": {},
+      "Anisotropy": {},
+      "AnisotropyRotation": {},
+      "Thickness": {},
+      "SubsurfacePower": {},
+      "SheenColor": {},
+      "SubsurfaceColor": {},
+      "Transmission": {},
+      "Absorption": {},
+      "IndexOfRefraction": {},
+      "MicroThickness": {},
+      "Identifier": "0",
+      "Position": "864,-208"
+    },
+    {
+      "_class": "Subtract",
+      "A": {},
+      "B": {
+        "Identifier": "3",
+        "Output": "Result"
+      },
+      "DefaultA": 0,
+      "DefaultB": 1,
+      "Identifier": "1",
+      "Position": "656,-128"
+    },
+    {
+      "_class": "Time",
+      "Identifier": "2",
+      "Position": "208,-256"
+    },
+    {
+      "_class": "VoronoiNoise",
+      "Coords": {},
+      "A": {},
+      "B": {},
+      "AngleOffset": 1.89,
+      "CellDensity": 100,
+      "Identifier": "3",
+      "Position": "496,-240"
+    }
+  ]
+}
