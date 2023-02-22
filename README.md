@@ -8,3 +8,7 @@ Models - This includes every model in the repo.
 Materials - These are Materials for pretty much anything.
 
 Sounds - Sounds like Music, ambient noises, other things like that.
+
+Clothing - Clothing for the citizen (NOTE: Must be moved into the base s&box folder for them to appear in the menu!)
+
+Shaders - Shaders for the game and stuff
