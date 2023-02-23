@@ -1,0 +1,78 @@
+{
+  "Model": "models/dev/error.vmdl",
+  "Description": "",
+  "BlendMode": "Opaque",
+  "nodes": [
+    {
+      "_class": "Result",
+      "Albedo": {
+        "Identifier": "4",
+        "Output": "Result"
+      },
+      "Emission": {
+        "Identifier": "2",
+        "Output": "Result"
+      },
+      "Opacity": {},
+      "TintMask": {},
+      "Normal": {},
+      "Roughness": {},
+      "Metalness": {},
+      "AmbientOcclusion": {},
+      "Sheen": {},
+      "SheenRoughness": {},
+      "Clearcoat": {},
+      "ClearcoatRoughness": {},
+      "ClearcoatNormal": {},
+      "Anisotropy": {},
+      "AnisotropyRotation": {},
+      "Thickness": {},
+      "SubsurfacePower": {},
+      "SheenColor": {},
+      "SubsurfaceColor": {},
+      "Transmission": {},
+      "Absorption": {},
+      "IndexOfRefraction": {},
+      "MicroThickness": {},
+      "Identifier": "0",
+      "Position": "192,-288"
+    },
+    {
+      "_class": "Time",
+      "Identifier": "1",
+      "Position": "-448,-112"
+    },
+    {
+      "_class": "VoronoiNoise",
+      "Coords": {},
+      "A": {
+        "Identifier": "1",
+        "Output": "Result"
+      },
+      "B": {
+        "Identifier": "3",
+        "Output": "Result"
+      },
+      "AngleOffset": 3.14,
+      "CellDensity": 10,
+      "Identifier": "2",
+      "Position": "-64,-208"
+    },
+    {
+      "_class": "Multiply",
+      "A": {},
+      "B": {},
+      "DefaultA": 0,
+      "DefaultB": 40.9,
+      "Identifier": "3",
+      "Position": "-192,-432"
+    },
+    {
+      "_class": "Float4",
+      "Name": "",
+      "Value": "179.67,0,0,1",
+      "Identifier": "4",
+      "Position": "-272,-320"
+    }
+  ]
+}
