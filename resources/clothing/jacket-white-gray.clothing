@@ -11,5 +11,7 @@
   "SlotsUnder": "LeftArm, RightArm",
   "SlotsOver": "Chest",
   "HideBody": "Chest",
-  "Icon": {}
+  "Icon": {
+  "Path": "clothing_icons/jacket-white-gray.png"
+  }
 }

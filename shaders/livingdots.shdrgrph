@@ -54,7 +54,10 @@
     {
       "_class": "VoronoiNoise",
       "Coords": {},
-      "A": {},
+      "A": {
+        "Identifier": "2",
+        "Output": "Result"
+      },
       "B": {},
       "AngleOffset": 1.89,
       "CellDensity": 100,
