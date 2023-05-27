@@ -1,0 +1,55 @@
+{
+  "Model": "models/dev/plane.vmdl",
+  "Description": "",
+  "BlendMode": "Translucent",
+  "nodes": [
+    {
+      "_class": "Result",
+      "Albedo": {
+        "Identifier": "2",
+        "Output": "Result"
+      },
+      "Emission": {
+        "Identifier": "1",
+        "Output": "Result"
+      },
+      "Opacity": {},
+      "Normal": {},
+      "Roughness": {},
+      "Metalness": {},
+      "AmbientOcclusion": {},
+      "DefaultOpacity": 1,
+      "DefaultRoughness": 1,
+      "DefaultMetalness": 0,
+      "DefaultAmbientOcclusion": 1,
+      "Identifier": "0",
+      "Position": "128,-112"
+    },
+    {
+      "_class": "TextureSampler",
+      "Coords": {},
+      "Texture": "materials/dev/black_grid_8_color_tga_d07d6bb4.generated.vtex",
+      "Sampler": {},
+      "UI": {
+        "Default": "1,1,1,1",
+        "SrgbRead": true,
+        "CreateInput": "CreateInputTexture2D"
+      },
+      "Identifier": "1",
+      "Position": "-224,-64"
+    },
+    {
+      "_class": "TextureCube",
+      "Coords": {},
+      "Sampler": {},
+      "UI": {
+        "Default": "1,1,1,1",
+        "SrgbRead": true,
+        "CreateInput": "CreateInputTexture2D"
+      },
+      "Texture": "materials/skybox/tests/src/lightingtest_interior_basic_2_exr_58fe92e7.generated.vtex",
+      "Identifier": "2",
+      "Position": "-224,-224"
+    }
+  ]
+}
