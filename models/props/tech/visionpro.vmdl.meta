@@ -1,0 +1,28 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "visionpro",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "visionpro",
+      "Tags": "tech apple xr vr ar",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/props/tech/visionpro.vmdl",
+        "Summary": "The Apple Vision Pro, ripped directly from apple.com.",
+        "Description": "The Apple Vision Pro, ripped directly from apple.com.",
+        "Public": true,
+        "ReplaceTags": "tech apple xr vr ar"
+      }
+    }
+  }
+}

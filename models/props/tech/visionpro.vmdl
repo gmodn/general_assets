@@ -1,0 +1,367 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "ajnvirxqeipgfmd.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "cztcyzgbtoteuic.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "desysquvkxdlalp_0.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "dfhmypbppqetjil.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "fbnocdawrdqlbcs.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "fedjjbthqhrlkpc.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "fougkdgsmvxajlb.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "gevkbvqyjynmuwp.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "gfhmzyzactzegfv.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "gtqygmoqlgkfhdn.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "gvidsfhblmylflj.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "havyqjgmrpvypqr.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "hjauwlwbadkdzhk.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "hjivkkmzdrbqwcd.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "hqmajbjpdpoudry.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "hzzizvnsvxhripk.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "iuxxlulgvhvfpzz.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "jvgmyhwkpfkorez.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "keesgkvkwifakeg.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "kpwwriyxuealyij.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "lagrefflwlictjo.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "lcfaohkyqktpeqf.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "llnrrvrtbskkjtz.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "lrbpxjzrlapvhbl.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "lzazjjawgeaffzw.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "mshgshswlhxyhfo.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "nctcfivfhzfkdlq.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "nhdhsomhmgthpcn.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "nirjontytaixgej.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "njtstbdweqvpdbg.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "nlaqcwoxsrapilv.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "nlxcmspyzherkcy.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "ocjobbhhkqmgeeg.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "oryqybedxgltlyh.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "pmiarqlbengkoax.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "qqwpomufqnlhpvb.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "rwqkxbamyyvcfaw.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "snsyksygkwsdilk.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "svoioowqcyudhrv.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "svovjbxowklgbkd.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "swxiudoqfwttiib.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "tapghbytpjcgeyh.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "uciadpmwlbjnyvl.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "uvukggvdloxvuea.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "wicotznvnvrzkul.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "xhmyigbfgvanmar.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "xnheodecvemrrsu.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "xyihbfregzikxuj.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+							{
+								from = "ysrzecxrjvirfze.vmat"
+								to = "materials/dev/primary_white.vmat"
+							},
+						]
+						use_global_default = true
+						global_default_material = "materials/dev/primary_white.vmat"
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_tags = "solid"
+						origin = [ 0.004944, -0.909804, 0.573941 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 18.206142, 27.528917, 9.534363 ]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/props/tech/visionpro.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"ASkoYyVECEcxkYK_0",
+								"EiAonKsxDEuXxGR_0",
+								"IUxpbXmRrlbzURT_0",
+								"IiAxItryhcbgzau_0",
+								"NIpSDFsUWUCOqdg_0",
+								"ZpjYSYThqJeqGFZ_0",
+								"khLVByUFFaNMLSm_0",
+								"sfTtJVBhwbMtpKx_0",
+								"wMmLVLlxQNpoxwu_0",
+								"EohuhBblivKlgiW",
+								"zvEZknZipHczcSh",
+								"cTBEkXCWkvHrohb",
+								"jmyvTSbhlLzcdVy",
+								"vyzuKbgYqRUloHN",
+								"BYzAzdYRSKOXgvW",
+								"COzyZGNXWoVuulX",
+								"txsLdslKWGeEPTt",
+								"BDnAUbPNZRAcuFf_0",
+								"IVshDKAKUOpgoit_0",
+								"aTcrhiBFDpmfQRb",
+								"gqNMwQGbnhvlVYE",
+								"gImAVESIoCwjazi",
+								"hciIxHvmXHAqkAZ_0",
+								"npnXECWbsAmgBIA",
+								"jZNSaLYonRzXGgY_0",
+								"syRtTlwvwBGbycm_0",
+								"xpJqyjMVpSjpaIw",
+								"jjJIZDrSILBzxpu",
+								"lntlgnzyayryFPp_0",
+								"GlqEjTaipLhaVeX",
+								"PelEjfQtfCcokND",
+								"UXLjllnBycNoaYM_0",
+								"utXOMjnivVWqOqb",
+								"AxIDAohNCLUnqHZ_0",
+								"gyYovHxVbMYfNIs_0",
+								"sPvEwoSuAuchoUX",
+								"KFVogPQUiddsMSf",
+								"MspSzkAWtrSNgSu_0",
+								"ZMUGAWqZYOylVJZ",
+								"NnqtZkGomSmVeRm_0",
+								"KYYFwKltpNVwIZF",
+								"PCWXKVLQMLFXuiB",
+								"HsgHlwEylVMvWpH",
+								"JlZUAmaWBjQdvyx",
+								"LRMIvaRwBWdAizA_0",
+								"RNQzvxThOUKSCWj",
+								"XyedbPFDxeHwCHk",
+								"hXjngMziGWeRsLG",
+								"kpOufxRkGzbfIDK",
+								"loKnjuoUUqCXjyh",
+								"mYnwxJZquqykmUm",
+								"vJNXctsYfhEHtrV",
+								"GCtZYOQqcgvnxPi",
+								"GqNvIoTBBTlyOqi_0",
+								"ItWUvMBTKMADVpz",
+								"MeigMDdpfMwthLL",
+								"bWGTZHjKQZbtiyV",
+								"ddBlCIbantllDIr",
+								"fAUXGIjKanMeYea",
+								"jEXLbqFcYStQaQF",
+								"nrLqYYObKenvfDT",
+								"wPwRzjPYjmrlEXX",
+								"wNTsFMcHtcwMFzu_0",
+								"DxigZplXoWuQGiB",
+								"TDKyRfvojNkpooB",
+								"DesySQuVkxDlAlp_0",
+								"SFnscRcMcAMgche",
+								"gRhjqEgpPdWDhFH",
+								"ltNMRLYerdBLGAz",
+								"swZapDaNVUxFTRq",
+								"vxWoDJDXdJFnuSs",
+								"HpwVpTrPEytuUsV",
+								"QWzDeiNdlTmLsaj",
+								"SqyAKiTAbYxFiMT_0",
+								"dcRUNTSwcozgcqO",
+								"iweCqUsEZGYMjLj",
+								"wBSkYahuvsEAlXg",
+								"yWGyQnAhCiOYRbg",
+								"IXuJiiCFSNvsmGR",
+								"CJWfACsrSRGJXyf",
+								"ZresYrVJWrzYduC",
+								"glyogFqKCZxZDOT",
+								"AWbZOEfuRQAvVTP",
+								"DxrCMpAwhniUBfl",
+								"IEooweRjLNVZPqx",
+								"SRKTTAWIPJHVYpM",
+								"vIfAfiWawaJWGqD",
+								"zOojMjLvernppMe",
+								"gCMrtHacMMbsVtY",
+								"yoKCFECQuCmdFPt",
+								"YEoDlcPCcODxkbN",
+								"jlIHzUMKnDyxeBA",
+								"NeorRpMRORinszX",
+								"EbXtcbKMemPvJWo_0",
+								"MeGztcuEjPuJXZJ",
+								"YloUIBCKBFoZsyn",
+								"cTCOfMLBXoYxhne",
+								"tkgmgHsnFBmdriF",
+								"uLmdthzQafdZhtY",
+								"EiWAFcSpgUbRfLC",
+								"LttGJckIvzcXqfr",
+								"tNyidXzsanoTPLC",
+								"ttGMShCisdkbKAx_0",
+								"xyBlAAQKYgueyAl",
+							]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}
