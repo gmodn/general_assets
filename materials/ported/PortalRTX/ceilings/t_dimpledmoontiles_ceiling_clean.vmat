@@ -1,11 +1,8 @@
-
-Layer0
+"Layer0"
 {
-	shader "complex.vfx"
-
-	TextureColor "materials/ported/portalrtx/ceilings/t_dimpledmoontiles_ceiling_clean_basecolor.tga"
-	TextureAmbientOcclusion "materials/default/default_ao.tga"
-	TextureNormal "materials/ported/portalrtx/ceilings/t_dimpledmoontiles_ceiling_clean_normal_oth.tga"
-	TextureRoughness "materials/ported/portalrtx/ceilings/t_dimpledmoontiles_ceiling_clean_roughness.tga"
-
+	"shader"		"shaders/complex.shader_c"
+	"TextureColor"		"materials/ported/portalrtx/ceilings/t_dimpledmoontiles_ceiling_clean_basecolor.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureNormal"		"materials/ported/portalrtx/ceilings/t_dimpledmoontiles_ceiling_clean_normal_oth.tga"
+	"TextureRoughness"		"materials/ported/portalrtx/ceilings/t_dimpledmoontiles_ceiling_clean_roughness.tga"
 }

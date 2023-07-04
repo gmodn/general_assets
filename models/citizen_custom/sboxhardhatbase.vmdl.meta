@@ -1,0 +1,28 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "S\u0026box Developer Cap",
+      "Type": "model",
+      "Org": "gmodn",
+      "Ident": "sboxhardhat",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/citizen_custom/sboxhardhatbase.vmdl",
+        "Summary": "A S\u0026box themed Hard Hat with proper Bones so you can use it as clothing!",
+        "Description": "A S\u0026box themed Hard Hat with proper Bones so you can use it as clothing!",
+        "Public": true,
+        "ReplaceTags": "clothes"
+      }
+    }
+  }
+}

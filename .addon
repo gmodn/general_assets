@@ -1,7 +1,7 @@
 {
   "Title": "General Assets",
   "Type": "content",
-  "Org": "local",
+  "Org": "mdlresrc",
   "Ident": "general_assets",
   "Tags": null,
   "Schema": 1,

@@ -1,0 +1,17 @@
+{
+  "Title": "S\u0026box Developer Hardhat",
+  "Subtitle": "Safety First!",
+  "Category": "Hat",
+  "SubCategory": "Hat",
+  "Parent": null,
+  "Model": "models/citizen_custom/sboxhardhatbase.vmdl",
+  "SkinMaterial": null,
+  "EyesMaterial": null,
+  "MaterialGroup": "default",
+  "SlotsUnder": "HeadTop",
+  "SlotsOver": 0,
+  "HideBody": 0,
+  "Icon": {
+    "Path": "/clothing_icons/devcap.png"
+  }
+}
