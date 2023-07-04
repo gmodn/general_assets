@@ -1,0 +1,27 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "devcom_bubble",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "devcom_bubble",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/extras/devcom_bubble.vmdl",
+        "Summary": "The developer commentary bubble used in some valve games",
+        "Description": "The developer commentary bubble used in some valve games",
+        "Public": true,
+        "ReplaceTags": "valve source"
+      }
+    }
+  }
+}

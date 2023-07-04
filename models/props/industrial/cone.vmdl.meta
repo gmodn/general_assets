@@ -1,7 +1,25 @@
 {
   "publish": {
+    "Allowed": true,
     "Enabled": true,
-    "Organisation": "mdlresrc",
-    "Ident": "devcone"
+    "ProjectConfig": {
+      "Title": "cone",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "cone",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/props/industrial/cone.vmdl"
+      }
+    }
   }
 }

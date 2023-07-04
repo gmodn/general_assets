@@ -1,7 +1,25 @@
 {
   "publish": {
+    "Allowed": true,
     "Enabled": true,
-    "Organisation": "mdlresrc",
-    "Ident": "devdesk"
+    "ProjectConfig": {
+      "Title": "dev_furniture_desk",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "dev_furniture_desk",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/props/furniture/dev_furniture_desk.vmdl"
+      }
+    }
   }
 }

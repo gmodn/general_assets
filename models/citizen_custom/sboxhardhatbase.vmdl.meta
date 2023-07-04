@@ -1,10 +1,11 @@
 {
   "publish": {
+    "Allowed": true,
     "Enabled": true,
     "ProjectConfig": {
       "Title": "S\u0026box Developer Cap",
       "Type": "model",
-      "Org": "gmodn",
+      "Org": "mdlresrc",
       "Ident": "sboxhardhat",
       "Tags": null,
       "Schema": 0,

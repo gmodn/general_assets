@@ -1,7 +1,25 @@
 {
   "publish": {
+    "Allowed": true,
     "Enabled": true,
-    "Organisation": "mdlresrc",
-    "Ident": "devtablelarge"
+    "ProjectConfig": {
+      "Title": "dev_furniture_table_large",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "dev_furniture_table_large",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/props/furniture/dev_furniture_table_large.vmdl"
+      }
+    }
   }
 }

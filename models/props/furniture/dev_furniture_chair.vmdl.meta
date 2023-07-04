@@ -1,7 +1,25 @@
 {
   "publish": {
+    "Allowed": true,
     "Enabled": true,
-    "Organisation": "mdlresrc",
-    "Ident": "devchair"
+    "ProjectConfig": {
+      "Title": "dev_furniture_chair",
+      "Type": "model",
+      "Org": "mdlresrc",
+      "Ident": "dev_furniture_chair",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/props/furniture/dev_furniture_chair.vmdl"
+      }
+    }
   }
 }
