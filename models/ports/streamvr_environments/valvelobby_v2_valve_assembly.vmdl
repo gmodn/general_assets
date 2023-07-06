@@ -60,7 +60,7 @@
 						filename = "models/ports/streamvr_environments/valvelobby_v2_valve_assembly.fbx"
 						import_translation = [ 0.0, 0.0, -23.0 ]
 						import_rotation = [ 0.0, 0.0, 0.0 ]
-						import_scale = 0.3937
+						import_scale = 0.2937
 						align_origin_x_type = "None"
 						align_origin_y_type = "None"
 						align_origin_z_type = "None"
@@ -86,7 +86,7 @@
 						filename = "models/ports/streamvr_environments/valvelobby_v2_valve_handle.fbx"
 						import_translation = [ -1.0, 0.0, -23.0 ]
 						import_rotation = [ 0.0, 0.0, 0.0 ]
-						import_scale = 0.3937
+						import_scale = 0.2937
 						align_origin_x_type = "None"
 						align_origin_y_type = "None"
 						align_origin_z_type = "None"
