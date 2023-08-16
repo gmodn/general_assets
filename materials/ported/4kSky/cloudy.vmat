@@ -1,11 +1,7 @@
-// THIS FILE IS AUTO-GENERATED
-
-Layer0
+"Layer0"
 {
-	shader "sky.shader"
-
-	//---- Texture ----
-	g_flBrightnessExposureBias "2.000"
-	g_flRenderOnlyExposureBias "0.000"
-	SkyTexture "materials/ported/4ksky/cloudy.png"
+	"shader"		"shaders/sky.shader"
+	"g_flBrightnessExposureBias"		"2.000000"
+	"g_flRenderOnlyExposureBias"		"0.000000"
+	"SkyTexture"		"materials/ported/4ksky/cloudy.png"
 }

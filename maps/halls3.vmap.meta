@@ -1,0 +1,45 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "halls3",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "halls3",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.metal_painted_grey_a_hs#18377",
+        "facepunch.concrete_c_hs#18363",
+        "rust.hvac_exhaust_metal#25181",
+        "rust.concrete_f_bld_var3#25031",
+        "facepunch.corrugated_wall_a_doublesided#18634",
+        "facepunch.corrugated_wall_doorframe_a_64#19212",
+        "rust.crane_floor_a#25030",
+        "facepunch.floor_steel_diamond_plate_a#18679",
+        "facepunch.corrugated_wall_a#18633",
+        "mdlresrc.concrete002#23420",
+        "tfassets.railing_stairs001b#22810",
+        "facepunch.floor_tile_blend_02#17367",
+        "facepunch.office_ceiling_a#18747",
+        "facepunch.ceiling_plaster_blend_01#17459",
+        "gman.dm04#26359",
+        "gman.dm04",
+        "jodiscontent.ladder_tower#24284",
+        "rust.ladder_300#25202",
+        "rust.ladder_300_top#25203"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/halls3.vmap"
+      }
+    }
+  }
+}

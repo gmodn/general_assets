@@ -1,16 +1,16 @@
 {
-  "Model": "models/dev/plane.vmdl",
+  "Model": null,
   "Description": "",
-  "BlendMode": "Translucent",
+  "BlendMode": "Opaque",
   "nodes": [
     {
       "_class": "Result",
       "Albedo": {
-        "Identifier": "2",
+        "Identifier": "3",
         "Output": "Result"
       },
       "Emission": {
-        "Identifier": "1",
+        "Identifier": "3",
         "Output": "Result"
       },
       "Opacity": {},
@@ -22,34 +22,134 @@
       "DefaultRoughness": 1,
       "DefaultMetalness": 0,
       "DefaultAmbientOcclusion": 1,
+      "PositionOffset": {},
       "Identifier": "0",
-      "Position": "128,-112"
+      "Position": "752,-128"
+    },
+    {
+      "_class": "TextureCube",
+      "Coords": {
+        "Identifier": "10",
+        "Output": "Result"
+      },
+      "Sampler": {},
+      "UI": {
+        "Name": "Sky Texture",
+        "Default": "1,1,1,1",
+        "SrgbRead": true,
+        "CreateInput": "CreateInputTexture2D"
+      },
+      "Texture": "materials/holowalls/skymats/dayskyhdri030a_jpg_dfaddcc4.generated.vtex",
+      "Identifier": "1",
+      "Position": "-336,32"
     },
     {
       "_class": "TextureSampler",
       "Coords": {},
-      "Texture": "materials/dev/black_grid_8_color_tga_d07d6bb4.generated.vtex",
+      "Image": "materials/generic/grid_solidbg.png",
       "Sampler": {},
       "UI": {
+        "Name": "Holowall Overlay",
         "Default": "1,1,1,1",
         "SrgbRead": true,
         "CreateInput": "CreateInputTexture2D"
       },
-      "Identifier": "1",
-      "Position": "-224,-64"
+      "Identifier": "2",
+      "Position": "-336,-176"
     },
     {
-      "_class": "TextureCube",
-      "Coords": {},
-      "Sampler": {},
-      "UI": {
-        "Default": "1,1,1,1",
-        "SrgbRead": true,
-        "CreateInput": "CreateInputTexture2D"
+      "_class": "Multiply",
+      "A": {
+        "Identifier": "2",
+        "Output": "Result"
       },
-      "Texture": "materials/skybox/tests/src/lightingtest_interior_basic_2_exr_58fe92e7.generated.vtex",
-      "Identifier": "2",
-      "Position": "-224,-224"
+      "B": {
+        "Identifier": "1",
+        "Output": "Result"
+      },
+      "DefaultA": 0,
+      "DefaultB": 1,
+      "Identifier": "3",
+      "Position": "208,-80"
+    },
+    {
+      "_class": "CommentNode",
+      "Size": "320,144",
+      "Color": "Green",
+      "Description": "This is the overlay texture. The transparent space in the material should be white and not transparent.",
+      "Title": "Holowall overlay",
+      "Layer": 1,
+      "Identifier": "4",
+      "Position": "-416,-336"
+    },
+    {
+      "_class": "CommentNode",
+      "Size": "320,112",
+      "Color": "Green",
+      "Description": "This node is what makes the sky texture. Nothing too Special.",
+      "Title": "Sky Node",
+      "Layer": 3,
+      "Identifier": "5",
+      "Position": "-416,208"
+    },
+    {
+      "_class": "CommentNode",
+      "Size": "768,128",
+      "Color": "Green",
+      "Description": "Hey! Good to see people using my shader. I had help from my friend EnumInt so yall should really check him out. He doesn\u0027t really make s\u0026box content but he does make stuff for BONELAB so if ya wanna check that out go ahead. Thanks for checking this out, see ya in the void! - Gman (Ian)",
+      "Title": "What up, son?",
+      "Layer": 2,
+      "Identifier": "6",
+      "Position": "48,-352"
+    },
+    {
+      "_class": "CommentNode",
+      "Size": "336,128",
+      "Color": "Green",
+      "Description": "This is what combines the Overlay and the Sky to create the Holowall effect.",
+      "Title": "Multiply Node",
+      "Layer": 1,
+      "Identifier": "7",
+      "Position": "208,32"
+    },
+    {
+      "_class": "ViewDirection",
+      "Identifier": "8",
+      "Position": "-1136,128"
+    },
+    {
+      "_class": "Float3",
+      "Value": "-1,-1,-1",
+      "Name": "",
+      "IsAttribute": false,
+      "UI": {},
+      "Identifier": "9",
+      "Position": "-1136,-48"
+    },
+    {
+      "_class": "Multiply",
+      "A": {
+        "Identifier": "9",
+        "Output": "Result"
+      },
+      "B": {
+        "Identifier": "8",
+        "Output": "Result"
+      },
+      "DefaultA": 0,
+      "DefaultB": 1,
+      "Identifier": "10",
+      "Position": "-704,96"
+    },
+    {
+      "_class": "CommentNode",
+      "Size": "288,111",
+      "Color": "Green",
+      "Description": "This node helps in orienting the Cube texture corectly.",
+      "Title": "Another Multiply Node",
+      "Layer": 4,
+      "Identifier": "11",
+      "Position": "-752,-112"
     }
   ]
 }
