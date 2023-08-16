@@ -1,0 +1,12 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "shaders/holowall.shader"
+
+	HolowallOverlay "materials/generic/grid_solidbg.png"
+	SkyTexture "materials/holowalls/skymats/EveningSkyHDRI011A.jpg"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+}
