@@ -5,7 +5,7 @@ Layer0
 	shader "shaders/holowall.shader"
 
 	HolowallOverlay "materials/generic/grid_solidbg.png"
-	SkyTexture "materials/holowalls/skymats/Void1.png"
+	SkyTexture "materials/holowalls/skymats/cubemap_space.png"
 
 	//---- Fog ----
 	g_bFogEnabled "1"

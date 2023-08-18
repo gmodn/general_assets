@@ -15,9 +15,7 @@
       "MenuResources": null,
       "HasCode": false,
       "CodePath": null,
-      "PackageReferences": [
-        "gmodn.holowall"
-      ],
+      "PackageReferences": [],
       "EditorReferences": [],
       "Metadata": {
         "SingleAssetSource": "maps/holowall_testing.vmap"
